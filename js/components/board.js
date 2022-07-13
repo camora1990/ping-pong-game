@@ -6,7 +6,7 @@
 
 export class Board {
 
-    /**
+    /**  
      * @constructor
      * @param {number} width - ancho del tabledo canvan
      * @param {*number} height - alto del tablero canvan
